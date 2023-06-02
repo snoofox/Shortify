@@ -1,0 +1,18 @@
+.wallpaper {
+    position: relative;
+    padding: 23.33px;
+}
+
+.wallpaper::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    width: calc(100% + 10px);
+    height: calc(100% + 10px);
+    background-image: url('https://source.unsplash.com/featured?dark');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: blur(2px);
+    z-index: -1;
+}
