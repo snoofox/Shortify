@@ -2,7 +2,7 @@
 
 Shortify is a simple URL shortener web application built using Next.js and Tailwind CSS. It allows users to shorten long URLs into shorter, more manageable links.
 
-<img src="https://iili.io/HrtUMkG.md.png" style="display: flex; justify-content: center" width="100%">
+<img src="https://iili.io/HrtUMkG.png" style="display: flex; justify-content: center" width="100%">
 
 ## Features
 
@@ -10,6 +10,9 @@ Shortify is a simple URL shortener web application built using Next.js and Tailw
 - Customizable short link aliases
 - Copy shortened links to the clipboard with one click
 - Responsive design for optimal usage on various devices
+
+## Preview
+<img src="https://iili.io/HrtbpUv.png" style="display: flex; justify-content: center" width="100%">
 
 ## Installation
 
